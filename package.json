@@ -9,7 +9,7 @@
     "baconjs": "~0.7.42"
   },
   "devDependencies": {
-    "typescript": "~1.4.1",
+    "typescript": "~1.4.1"
   },
   "main": "bacon.d.ts"
 }
