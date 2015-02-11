@@ -5,9 +5,6 @@
   "licenses": [
     "GPL3"
   ],
-  "dependencies": {
-    "baconjs": "~0.7.42"
-  },
   "devDependencies": {
     "typescript": "~1.4.1"
   },
