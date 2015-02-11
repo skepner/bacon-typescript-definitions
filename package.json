@@ -1,0 +1,17 @@
+{
+  "name": "bacon-typescript-definitions",
+  "version": "0.1",
+  "author": "Eugene Skepner",
+  "licenses": [
+    "GPL3"
+  ],
+  "dependencies": {
+    "baconjs": "~0.7.42"
+  },
+  "devDependencies": {
+    "typescript": "~1.4.1",
+  },
+  "scripts": {
+  },
+  "main": "bacon.d.ts"
+}

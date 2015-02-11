@@ -1,6 +1,10 @@
-// author: Bodil Stokke https://github.com/bodil/baconts
-// author: Eugene Skepner https://github.com/skepner
+// Type definitions for bacon.js  v0.7.42
+// Project: http://baconjs.github.io
+// Definitions by: Bodil Stokke <https://github.com/bodil/baconts>
+// Definitions by: Eugene Skepner <https://github.com/skepner>
+// Definitions: https://github.com/skepner/bacon-typescript-definitions
 //
+// Differences with https://github.com/bodil/baconts
 // JQuery interface added.
 // declare module 'Bacon' added
 
